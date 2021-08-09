@@ -1,0 +1,2 @@
+# LojaDeSuprimentos
+Exercicio 02
